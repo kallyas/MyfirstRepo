@@ -7,3 +7,6 @@
 - Features
 - Chores
 - Fixes
+
+> creating branches via cmd
+git checkout -b `<branch name>`
