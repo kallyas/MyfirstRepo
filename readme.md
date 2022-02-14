@@ -1,2 +1,9 @@
 # Working with Git and Github
-This is a read Me file
+
+### Git commands
+- git init  - Initialize git repository
+- git commit - commit | stage changes
+
+- Features
+- Chores
+- Fixes
