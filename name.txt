@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 My name is Iden
 My name is Sam
+My name is I
+my name is Glory
+this is the second line of our document
+
+>>>>>>> 2f36030bb78dbaf53524eb8b8844eaee50a42be5
